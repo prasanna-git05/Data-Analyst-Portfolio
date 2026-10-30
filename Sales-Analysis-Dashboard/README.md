@@ -45,4 +45,9 @@ The dashboard enables users to:
  ✅ Conclusion
 This project demonstrates how Power BI can transform raw sales data into meaningful visual insights to support business analysis and decision-making.
 
+## Dashboard Screenshot
+
+![Sales Analysis Dashboard](Sales.png)
+
+
 
