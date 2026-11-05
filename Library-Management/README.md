@@ -40,37 +40,38 @@ The project uses the following datasets:
 
 Provides an overall view of library performance through key metrics and visualizations.
 
+![Executive Dashboard](Executive%20dashboard.png)
 
 
 ### 2. Books Analytics
 
 Focuses on book-related information and helps analyze book availability and library book trends.
 
-
+![Books Analytics](Books%20analytics.png)
 
 ### 3. Branch & Employee Analytics
 
 Analyzes library branches and employee-related performance to understand operational activities.
 
-
+![Branch & Employee Analytics](Branch%20%26%20employee%20analytics.png)
 
 ### 4. Issue & Return Analysis
 
 Analyzes book issuing and returning activities to understand library transaction patterns.
 
-
+![Issue & Return Analysis](issue%20%26%20return.png)
 
 ### 5. Members Analytics
 
 Provides insights into library members and their activities.
 
-
+![Members Analytics](members.png)
 
 ### 6. Overdue Fine Analysis
 
 Focuses on overdue books and fine-related information to understand overdue patterns.
 
-
+![Overdue Fine Analysis](overdue%20fine%20analysis.png)
 
 ## 🧠 Key Skills Demonstrated
 
