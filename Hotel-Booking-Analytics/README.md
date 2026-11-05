@@ -39,17 +39,6 @@ The dashboard helps analyze:
 - Cancellation patterns
 - Customer behavior
 
-📁 Project Structure
-
-├── Hotel-Booking-Analytics/
-   ├── README.md
-   ├── Hotel booking Analytics.pbix
-   ├── hotel_booking_dataset.csv
-   ├── Overview.png
-   ├── Booking.png
-   ├── Cancellation.png
-   ├── Customer.png
-   └── hotel.png
 
 ## 📊 Dashboard Pages
 
