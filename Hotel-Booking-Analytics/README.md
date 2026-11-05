@@ -1,6 +1,6 @@
- 🏨 Hotel Booking Analytics Dashboard
+## 🏨 Hotel Booking Analytics Dashboard
 
- 📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes hotel booking data to understand customer behavior, booking patterns, cancellations, and overall hotel performance.
 
@@ -8,7 +8,7 @@ The interactive dashboard was created using **Power BI** to transform raw hotel 
 
 
 
- 🎯 Project Objectives
+## 🎯 Project Objectives
 
 - Analyze overall hotel bookings
 - Understand customer booking behavior
@@ -19,15 +19,28 @@ The interactive dashboard was created using **Power BI** to transform raw hotel 
 
 
 
- 🛠️ Tools Used
+## 🛠️ Tools Used
 
 - **Power BI** – Data visualization and dashboard creation
 - **Power Query** – Data cleaning and transformation
 - **DAX** – Creating measures and calculations
 
+  
+
+## 📈 Key Insights
+
+The dashboard helps analyze:
+
+- Total hotel guests
+- Adults and children
+- Average guests per booking
+- Repeat guests
+- Booking trends
+- Cancellation patterns
+- Customer behavior
 
 
- 📊 Dashboard Pages
+## 📊 Dashboard Pages
 
 ### 🏨 Overview Dashboard
 
@@ -70,21 +83,7 @@ Provides insights into customer behavior and customer-related booking trends.
 - 🖼️ **Cancellation.png** – Cancellation analysis screenshot
 - 🖼️ **Customer.png** – Customer analysis screenshot
 
----
 
-## 📈 Key Insights
-
-The dashboard helps analyze:
-
-- Total hotel guests
-- Adults and children
-- Average guests per booking
-- Repeat guests
-- Booking trends
-- Cancellation patterns
-- Customer behavior
-
----
 
 ## 🚀 Conclusion
 
