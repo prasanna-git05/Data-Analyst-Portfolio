@@ -4,8 +4,6 @@
 
 This project focuses on analyzing sales data using Power BI to understand overall business performance. The dashboard provides insights into total sales, profit, quantity sold, and customer performance through interactive visualizations.
 
-The project transforms raw sales data into meaningful business insights to support better decision-making.
-
 ## 🎯 Project Objectives
 
 - Analyze overall sales performance.
@@ -13,36 +11,36 @@ The project transforms raw sales data into meaningful business insights to suppo
 - Understand customer performance.
 - Identify sales trends and patterns.
 - Analyze city-wise sales performance.
-- Support better business decisions through data visualization.
+- Support better business decisions.
 
 ## 📊 Dataset
 
 **sales_data.csv**
 
-Contains sales-related information used for analyzing business performance, including sales, profit, quantity, and customer details.
+Contains sales-related information used for analyzing business performance.
 
 ## 🛠️ Tools Used
 
-- **Power BI** – Dashboard creation and data visualization.
-- **Power Query** – Data cleaning and transformation.
-- **DAX** – Creating measures and calculations.
-- **CSV** – Dataset used for analysis.
+- Power BI – Dashboard creation and data visualization.
+- Power Query – Data cleaning and transformation.
+- DAX – Creating measures and calculations.
+- CSV – Dataset used for analysis.
 
 ## 🔍 Data Analysis Process
 
 1. Imported the sales dataset into Power BI.
 2. Performed data cleaning and transformation using Power Query.
-3. Created KPI measures to calculate total sales, total profit, and total quantity.
-4. Developed interactive visualizations to analyze sales performance.
-5. Used slicers and filters to explore sales data across different categories and locations.
+3. Created KPI measures for total sales, total profit, and total quantity.
+4. Developed interactive visualizations.
+5. Used slicers and filters to explore sales performance.
 
 ## 📈 Sales Dashboard
 
 ### 1. Sales Analysis Dashboard
 
-The dashboard provides an overview of business performance using KPI cards and different visualizations, including stacked bar charts, line charts, and waterfall charts. It helps analyze sales, profit, quantity, and customer performance.
+The dashboard provides an overview of business performance using KPI cards and visualizations, including stacked bar charts, line charts, and waterfall charts. It helps analyze sales, profit, quantity, and customer performance.
 
-
+![Sales Analysis Dashboard](Sales.png)
 
 ## 🧠 Key Skills Demonstrated
 
@@ -61,11 +59,8 @@ The dashboard provides an overview of business performance using KPI cards and d
 Sales-Analysis/
 │
 ├── README.md
-│
 ├── Sales Dashboard.pbix
-│
 ├── sales_data.csv
-│
 └── Sales.png
 ```
 
@@ -73,5 +68,8 @@ Sales-Analysis/
 
 This project demonstrates how Power BI can be used to analyze sales data and create interactive dashboards. It helps identify business performance trends and provides meaningful insights into sales, profit, quantity, and customer performance.
 
-##
+## 👩‍💻 Author
 
+**Lakshmi Prasanna**
+
+Aspiring Data Analyst | SQL | Excel | Power BI | Python
