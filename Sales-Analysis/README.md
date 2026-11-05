@@ -68,8 +68,3 @@ Sales-Analysis/
 
 This project demonstrates how Power BI can be used to analyze sales data and create interactive dashboards. It helps identify business performance trends and provides meaningful insights into sales, profit, quantity, and customer performance.
 
-## 👩‍💻 Author
-
-**Lakshmi Prasanna**
-
-Aspiring Data Analyst | SQL | Excel | Power BI | Python
