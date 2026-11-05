@@ -41,15 +41,15 @@ The dashboard helps analyze:
 
 📁 Project Structure
 
-Hotel-Booking-Analytics/
+├── Hotel-Booking-Analytics/
    ├── README.md
    ├── Hotel booking Analytics.pbix
    ├── hotel_booking_dataset.csv
    ├── Overview.png
    ├── Booking.png
    ├── Cancellation.png
-   └── Customer.png
-
+   ├── Customer.png
+   └── hotel.png
 
 ## 📊 Dashboard Pages
 
